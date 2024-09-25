@@ -1,1 +1,1 @@
-# sbucybersecclub.github.io
+# Cybersecurity Club @ SBU
